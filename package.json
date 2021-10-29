@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "area.js文件是省市区数据，index.js将省市区数据处理成uview组件库的Select 列选择器组件能够使用的数据结构。",
+  "main": "area.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marx181855/utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marx181855/utils/issues"
+  },
+  "homepage": "https://github.com/marx181855/utils#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
